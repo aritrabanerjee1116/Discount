@@ -210,7 +210,7 @@ function Home() {
                   Grocery Discount System
                 </span>
                 <div className="space-y-3">
-                  <h1 className="max-w-3xl font-serif text-4xl font-bold tracking-tight text-slate-900 sm:text-5xl">
+                  <h1 className="max-w-3xl font-serif text-3xl font-bold tracking-tight text-slate-900">
                     Shop smart with instant cart totals, threshold discounts,
                     and promo code savings.
                   </h1>
